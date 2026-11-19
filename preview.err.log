@@ -1,0 +1,23 @@
+[33mThe plugin "vite-tsconfig-paths" is detected. Vite now supports tsconfig paths resolution natively via the [1mresolve.tsconfigPaths[22m option. You can remove the plugin and set [1mresolve.tsconfigPaths: true[22m in your Vite config instead.[39m
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'D:\Abdul ahad\Pharma intelligence\Pharma-label-main\dist\server\server.js' imported from D:\Abdul ahad\Pharma intelligence\Pharma-label-main\node_modules\@tanstack\start-plugin-core\dist\esm\vite\preview-server-plugin\plugin.js
+    at finalizeResolution (node:internal/modules/esm/resolve:241:11)
+    at moduleResolve (node:internal/modules/esm/resolve:846:10)
+    at defaultResolve (node:internal/modules/esm/resolve:973:11)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:708:20)
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:728:38)
+    at nextStep (node:internal/modules/customization_hooks:189:26)
+    at Ie (file:///D:/Abdul%20ahad/Pharma%20intelligence/Pharma-label-main/node_modules/@tailwindcss/node/dist/index.mjs:1:539)
+    at nextStep (node:internal/modules/customization_hooks:189:26)
+    at resolveWithHooks (node:internal/modules/customization_hooks:417:10)
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:754:16)
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'D:\Abdul ahad\Pharma intelligence\Pharma-label-main\dist\server\server.js' imported from D:\Abdul ahad\Pharma intelligence\Pharma-label-main\node_modules\@tanstack\start-plugin-core\dist\esm\vite\preview-server-plugin\plugin.js
+    at finalizeResolution (node:internal/modules/esm/resolve:241:11)
+    at moduleResolve (node:internal/modules/esm/resolve:846:10)
+    at defaultResolve (node:internal/modules/esm/resolve:973:11)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:708:20)
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:728:38)
+    at nextStep (node:internal/modules/customization_hooks:189:26)
+    at Ie (file:///D:/Abdul%20ahad/Pharma%20intelligence/Pharma-label-main/node_modules/@tailwindcss/node/dist/index.mjs:1:539)
+    at nextStep (node:internal/modules/customization_hooks:189:26)
+    at resolveWithHooks (node:internal/modules/customization_hooks:417:10)
+    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:754:16)
